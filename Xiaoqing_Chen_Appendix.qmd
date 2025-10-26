@@ -1,6 +1,6 @@
 ---
 title: "Philadelphia Housing Price Prediction – Technical Appendix"
-author: "Zicheng Xiang"
+author: "Xiaoqing Chen"
 date: "October 24, 2025"
 format:
   html:
@@ -2948,3 +2948,4 @@ cat("  • Location FE: Reddish Tone (#D6604D)\n\n")
 ```{r}
 
 ```
+

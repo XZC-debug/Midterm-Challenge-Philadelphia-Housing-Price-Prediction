@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs   
+
+website:
+  title: "MUSA 5080 Midterm — Xiaoqing Chen"
+  navbar:
+    left:
+      - text: "Slides"
+        file: Xiaoqing_Chen_Presentation.qmd
+      - text: "Appendix"
+        file: Xiaoqing_Chen_Appendix.qmd
+    right:
+      - text: "Home"
+        file: index.qmd
+  page-navigation: true
+
+format:
+  html:
+    theme: cosmo
+    toc: false
+

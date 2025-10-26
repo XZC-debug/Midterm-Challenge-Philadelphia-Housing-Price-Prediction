@@ -7,9 +7,9 @@ website:
   navbar:
     left:
       - text: "Slides"
-        file: Xiaoqing_Chen_Presentation.qmd
+        file: Xiaoqing_Chen_Presentation.html
       - text: "Appendix"
-        file: Xiaoqing_Chen_Appendix.qmd
+        file: Xiaoqing_Chen_Appendix.html
     right:
       - text: "Home"
         file: index.qmd
@@ -19,4 +19,5 @@ format:
   html:
     theme: cosmo
     toc: false
+
 

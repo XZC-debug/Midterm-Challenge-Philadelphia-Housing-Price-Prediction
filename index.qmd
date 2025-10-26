@@ -11,14 +11,14 @@ Welcome to my portfolio site for the midterm.
 - **File:** `Xiaoqing_Chen_Presentation.qmd`
 - **Format:** revealjs (no code on slides)
 
-[Open Slides »](../Xiaoqing_Chen_Presentation.html){.btn .btn-primary}
+[Open Slides »](Xiaoqing_Chen_Presentation.html){.btn .btn-primary}
 :::
 ::: {.g-col-12 .g-col-md-6}
 ### Technical Appendix
 - **File:** `Xiaoqing_Chen_Appendix.qmd`
 - **Format:** html (code visible)
 
-[Open Appendix »](../Xiaoqing_Chen_Appendix.html){.btn}
+[Open Appendix »](Xiaoqing_Chen_Appendix.html){.btn}
 :::
 :::
 
